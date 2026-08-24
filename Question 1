@@ -1,0 +1,15 @@
+import java.util.Scanner;
+
+class Q1 {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+
+        String name = "Vaidika";
+        int age = 18;
+        String college = "COER University";
+
+        System.out.println("Name: " + name);
+        System.out.println("Age: " + age);
+        System.out.println("College: " + college);
+    }
+}
